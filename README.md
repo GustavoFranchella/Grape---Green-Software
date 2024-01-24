@@ -9,7 +9,7 @@ La certificación Green Software Practitioner es muy deseable aunque no exigible
  ## Intensidad de carbono
  ### Objetivos
 
- 1. Conocer y asimilar diversas herramientas para obtener la intensidad de carbono, el factor I en la fórmula de la intensidad de carbono del software. 
+ 1. Conocer y asimilar diversas herramientas para obtener el factor I (Intensidad de carbono) en la fórmula que está a continuación. 
  
                             SCI = ((E * I) + M) per R.
 
