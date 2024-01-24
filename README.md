@@ -1,4 +1,4 @@
-# Julasoft | Green Software
+# Grape | Green Software
  Laboratorio para pruebas de software
 
 # Requisitos
