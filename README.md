@@ -1,4 +1,4 @@
-# Grape | Green Software
+# Grape | Green Soft
  Laboratorio para pruebas de software
 
 # Requisitos
