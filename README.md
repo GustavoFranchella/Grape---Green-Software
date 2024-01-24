@@ -11,7 +11,7 @@ La certificación Green Software Practitioner es muy deseable aunque no exigible
 
  1. Conocer y asimilar diversas herramientas para obtener el **factor I** (Intensidad de carbono) en la fórmula que está a continuación. 
  
-                            SCI = ((E * **I** ) + M) per R.
+                            SCI = ((E * I) + M) per R.
 
  Sugerido: Empezar con https://github.com/Green-Software-Foundation/carbon-aware-sdk
 
