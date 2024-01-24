@@ -1,5 +1,5 @@
 # Grape | Green Software
- Laboratorio para pruebas de software
+ Banco de pruebas de software
 
 # Requisitos
 La comprensión de la fórmula de intensidad de carbono del software (SCI) es imprescindible.
