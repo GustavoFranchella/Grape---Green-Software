@@ -13,6 +13,12 @@
  Sugerido:  ver cómo funciona https://branch.climateaction.tech/
 
   ## Medición de carbono
+  ### Objetivo
+  1. Conocer y asimilar diversas herramientas para obtener el consumo de recursos de una aplicación.
+
+  Sugerido: empezar por Impact Engine Framework en https://greensoftwarefoundation.atlassian.net/wiki/spaces/~612dd45e45cd76006a84071a/pages/17072136/Opensource+Impact+Framework
+
+  2. Calcular la intensidad de carbono de la aplicación usando SCI.
 
 
 
